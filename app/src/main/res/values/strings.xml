@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UTS</string>
+    <string name="bio" tools:ignore="StringEscaping">''You might not think that programmers are artists, but programming is an extremely creative profession. it's logic-based creativity.'' -John Romero 💻</string>
+</resources>
